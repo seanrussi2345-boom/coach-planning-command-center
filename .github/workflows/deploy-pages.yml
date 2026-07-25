@@ -1,6 +1,8 @@
 name: Deploy standalone coaching prototype
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
