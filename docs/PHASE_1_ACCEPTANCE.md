@@ -1,0 +1,22 @@
+# Phase 1 Acceptance Checklist
+
+- [x] Separate GitHub repository
+- [x] Independent Pages deployment workflow
+- [x] Separate brand asset and storage namespace
+- [x] Team and season setup
+- [x] Staff setup and coaching roles
+- [x] Opponent and game setup
+- [x] Weekly dashboard
+- [x] Tendencies and scouting observations
+- [x] Situation, personnel, formation, confidence, and source labels
+- [x] Planned answers linked to tendencies
+- [x] Coach ownership
+- [x] Approval, installation, practice, and game-day status
+- [x] Browser-local autosave
+- [x] JSON export and import
+- [x] Change history
+- [x] Desktop and tablet responsive layouts
+- [x] No sticky header or nested vertical scrolling
+- [x] Automated boundary and domain tests
+- [ ] Confirm GitHub Pages is enabled for GitHub Actions in repository settings
+- [ ] Verify first live deployment URL
